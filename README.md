@@ -20,6 +20,9 @@ The primary objective of this project is to conduct data analysis and visualizat
 4. **Data Visualization**: Visualize the relationship between temperature and crop production using charts, graphs, and maps.
 5. **Predictive Modeling**: Develop predictive models to forecast future crop production based on projected temperature changes.
 
+## Data Cleaning Process
+The raw crop data obtained from the Canadian government's Agriculture and Agri-Food Canada website requires preprocessing before analysis. To streamline the analysis process, a file named `Crop_Data_Cleaning` has been developed. This script cleans up the source crop data report to a format that is easy to analyze. For convenience, this cleaning process is performed locally, and the cleaned file is stored in the `source data` folder within the project repository. The original file is in the folder as well with the name 'Report_G002_20240218_201419'
+
 ## Future Considerations
 As global warming continues to alter temperature patterns, it is essential to regularly update the analysis and predictive models with new data. Additionally, exploring the impact of other climatic factors such as precipitation and extreme weather events on crop production could provide further insights into agricultural resilience and adaptation strategies.
 
