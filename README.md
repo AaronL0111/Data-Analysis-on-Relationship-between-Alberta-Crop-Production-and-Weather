@@ -5,7 +5,7 @@ This project aims to analyze the relationship between temperature and crop produ
 
 ## Data Sources
 ### Crop Data
-The crop data for this project is sourced from the Canadian government's Agriculture and Agri-Food Canada website. Specifically, the data is retrieved from the Market Information System, which provides comprehensive information on crop production in various regions of Canada. The direct link to the crop data for Alberta can be found [here](https://agriculture.canada.ca/en/market-information-system/rp/index%2Deng.cfm?action=ePR&R=243&PDCTC=#clfinput_err).
+The crop data utilized in this project is sourced directly from the Canadian government's Agriculture and Agri-Food Canada website. This dataset provides comprehensive information on Alberta's crop production over the last decade, offering valuable insights into agricultural trends and patterns. The direct link to the crop data for Alberta can be found [here](https://agriculture.canada.ca/en/market-information-system/rp/index%2Deng.cfm?action=ePR&R=243&PDCTC=#clfinput_err).
 
 ### Weather Data
 Weather data, including temperature records, is obtained from ClimateData.ca, a platform that provides access to climate data from various weather stations across Canada. The weather data is crucial for understanding temperature fluctuations in Alberta over time. The weather station data can be downloaded from [here](https://climatedata.ca/download/#station-download).
